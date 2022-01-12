@@ -1,6 +1,4 @@
-"""
-Calculator Library containing basic match operations.
-"""
+# Calculator Library containing basic match operations.
 
 
 def add(first_term, second_term):
